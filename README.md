@@ -12,9 +12,7 @@
 
 # Features:
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=git clone https://github.com/SlamDevs/slam-mirrorbot mirrorbot/
-cd mirrorbot
-/)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PraveenKavindu/slam-mirrorbot/)
 
 <details>
     <summary><b>Click Here For More Details</b></summary>
